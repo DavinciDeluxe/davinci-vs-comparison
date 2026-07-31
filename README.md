@@ -43,7 +43,6 @@ How **DaVinci Deluxe · Cloud Edition** compares to popular ECU tuning tools and
 - **DaVinci Deluxe vs MCTUNER** — [read the comparison](https://www.davincideluxe.fr/davinci-vs-mctuner)
 - **DaVinci Deluxe vs HEXREMOVER** — [read the comparison](https://www.davincideluxe.fr/davinci-vs-hexremover)
 - **DaVinci Deluxe vs XIRDECODER** — [read the comparison](https://www.davincideluxe.fr/davinci-vs-xirdecoder)
-- **DaVinci Deluxe vs FIXWAVE** — [read the comparison](https://www.davincideluxe.fr/davinci-vs-fixwave)
 
 ## Why DaVinci Deluxe?
 
